@@ -11,7 +11,7 @@ y = x.strftime("%A")
 weekdays = {'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'}
 # we defined the weekdays 
 if y in weekdays:
-    # we are checking whether today's date is a weekdays and printing output accordingly. 
+    # we are checking whether today's date is a weekdays and printing the output accordingly. 
     # if today's date can be find in 'weekdays' 
     print('Yes, unfortunatly today is a weekday.')
 else:
