@@ -17,5 +17,5 @@ last_four_digit = int(accnum[-4:])
 # then I research how to slice the last N character from any given string and found it in stackoverflow forum (https://stackoverflow.com/questions/7983820/get-the-last-4-characters-of-a-string) 
 rest_of_accnum = len(accnum) - 4
 # then I needed to calculate the exact lenght of the account number portion to mask it
-masked_accnum = int(rest_of_accnum) * 'X'
-print(f'{masked_accnum}{last_four_digit}')
+masked_accnum = int(rest_of_accnum) * 'X' # I had to convert it to int to multiply it with string
+print(f'{masked_accnum}{last_four_digit}') # I used f-string to print the masked account number with the last four digit

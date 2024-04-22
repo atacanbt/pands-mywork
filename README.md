@@ -21,3 +21,9 @@ weekly task 6 : https://runestone.academy/ns/books/published/thinkcspy/MoreAbout
 https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 https://www.youtube.com/watch?v=xdlIFw5EM4w&ab_channel=TheLastMinuteProfessor
 https://en.wikipedia.org/wiki/Newton%27s_method
+
+weekly task 7: https://www.w3schools.com/python/ref_list_count.asp
+https://www.w3schools.com/python/python_file_open.asp
+https://www.geeksforgeeks.org/python-string-count-method/
+https://stackoverflow.com/questions/41504428/find-the-number-of-characters-in-a-file-using-python
+https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/

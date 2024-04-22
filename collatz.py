@@ -17,4 +17,4 @@ while number != 1:
     # when the program reaaches to value '1', it assignes all numbers emerged during the calculation into output variable with spaces between them
     output += f" {number}"
 # I have to strip the variable because there was "%" sign in every result, I couldn't think any other way to resolve it
-print(output.strip())
+print(output.strip()) 
